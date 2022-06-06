@@ -1,2 +1,2 @@
-# cooly-url-spammer
+# Cooly url spammer
  Cooly disccord url spammer
